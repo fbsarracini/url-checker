@@ -63,3 +63,10 @@ Response:
 | `CHECK_MAX_TIMEOUT` | `10s` | Max check timeout |
 | `LOG_LEVEL` | `info` | debug\|info\|warn\|error |
 | `LOG_FORMAT` | `json` | json\|text |
+
+
+<img width="1213" height="661" alt="url-checker" src="https://github.com/user-attachments/assets/8cb7c37d-1c39-4bc2-98f4-aa625276ae67" />
+
+<img width="937" height="171" alt="bench" src="https://github.com/user-attachments/assets/163ca2c1-093f-47da-89e6-ab2b3b7c7eb3" />
+
+
