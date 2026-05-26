@@ -90,6 +90,3 @@ If you find yourself adding a `Checker` interface inside `internal/checker/`, st
 - Always test concurrency code with `-race` (`make test-race`) before considering it done.
 - Prefer `http.NewRequestWithContext` and explicit `*http.Client` construction; never reach for `http.DefaultClient`.
 
-## Further reading
-
-`url-checker-project-guide.md` (Portuguese) is the design document and contains the full rationale for every decision above, plus interview-style defenses of each tradeoff. Treat it as the source of truth when guidance here is ambiguous.
